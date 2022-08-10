@@ -1,8 +1,15 @@
 ---
+title: Final - What If?
 description: 'Continue from Midterm, discover application for your swatches.'
+draft: false
 ---
 
-# Final Project: Adapt to Application
+# Final Project: What If
+-	Reinvent component
+-	Code contribution
+-	Deep dive
+
+
 
 Taking what you have learned from your midterm and the weeklies to adapt your midterm swatch into a finished prototype. What separates this from the swatch your presented in the midterm is that it should be integrated into a form \(with all necessary components\) and exist as part of an interactive narrative. The objects do not need to be user interfaces, but they should somehow respond to the body and/or environment. 
 

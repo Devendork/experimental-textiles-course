@@ -1,4 +1,5 @@
 ---
+title: Midterm Project
 description: Develop a textile swatch focusing on texture and behavior.
 ---
 
@@ -9,7 +10,7 @@ Your midterm project is to produce a swatch for a class swatch book that demonst
 **The Assignment Description:**   
 Taking into consideration all of the ways you have learned to create a textile/substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). Each student **should make 3 copies of the same swatch.** 
 
-Your substrate should function as some kind of sensor \(stretch, bend, force, etc\) or have a unique property \(changing shape, biodegradable, etc\). 
+Your swatch should function as some kind of sensor \(stretch, bend, force, etc\), ability to actuate \(change shape, color, stiffness in response to a stimulus\) or have a unique and intentional property \(biodegradable, super softness, texture change on interaction, etc\). For your swatch book page, you must title your swatch and write a description of its behavior. You must include a list of the materials and tools used to create it as well as the draft / AdaCAD file used to create it. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. The draft should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references.** 
 
 For your swatch book page, you must use the template provided in canvas  \(in addition to any of your own documentation you might like to keep\) title your swatch and write a description of its function. You must include a list of the materials and tools used to create your swatch. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. You must also include an illustrated diagram. The illustrated diagram should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references. 
 
@@ -24,7 +25,7 @@ Below, you will
 
 | **Item** | Percent of Midterm Grade | Date Due |
 | :--- | :--- | :--- |
-| Deliverable 1a: [Concept](midterm.md#deliverable-1-concept-due-monday-10-5) | 5% | 10/5 |
+| Deliverable 1a: [Concept](midterm.md#deliverable-1-concept-due-monday-10-3) | 5% | 10/3 |
 | Deliverable 1b: Concept Update | 5% | 10/14 |
 | In Class Development with Guests | 0% | 10/14 |
 | Deliverable 2: [Physical Swatches](midterm.md#d2) | 40% | 10/25 |
@@ -34,17 +35,17 @@ Below, you will
 
 \*We have timed the midterm so you have the option to submit your project to the [Student Design Competition](https://tei.acm.org/2021/participate/student-design-challenge/)  at this year's TEI - which is being curated by [Hannah Perner-Wilson](https://www.plusea.at/?page_id=1605) and [Irene Posch](http://www.ireneposch.net/).  
 
-### Deliverable 1: Concept - Due Monday 10/5 <a id="d1"></a>
+### Deliverable 1: Concept - Due Monday 10/3 <a id="d1"></a>
 
-What do you think you might make? Submit your idea for your swatch to use via canvas by 10/5. 
+What do you think you might make? Submit your idea for your swatch to use via canvas by 10/3. 
 
 Your submission should use words, diagrams and/or found internet imagery to describe what you'd like to make. The idea should be inventive and feasible and you must include details on how you plan to implement your swatches within the 2 weeks you will have to complete it. 
 
 The instructors will provide feedback and resources based on your concept. If your concept is unsuitable, we may ask you to revise and resubmit. 
 
-### Deliverable 1b: Concept - Due Wednesday 10/14 <a id="d1"></a>
+### Deliverable 1b: Concept - Due Wednesday 10/12 <a id="d1"></a>
 
-We will be hosting guest brainstormers in class on October 14. 
+We will be hosting guest brainstormers in class on October 12. 
 
 Please review the feedback from your original concept and come to class prepared with a description of the swatch you are planning to develop. Your description should include: 
 

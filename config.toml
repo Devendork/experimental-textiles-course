@@ -6,7 +6,7 @@ theme = "hugo-book"
 
 # Book configuration
 disablePathToLower = true
-enableGitInfo = false
+enableGitInfo = true
 
 
 [markup.tableOfContents]

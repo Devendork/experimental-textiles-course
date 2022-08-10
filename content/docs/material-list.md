@@ -1,5 +1,7 @@
 ---
-description: >-
+title: Material List
+weight: 3
+description: 
   A list of materials you will be given, need to buy or have access to as part
   of the course
 ---

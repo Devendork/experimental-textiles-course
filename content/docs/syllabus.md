@@ -1,4 +1,6 @@
 ---
+title: Syllabus
+weight: 1
 description: ATLAS 4519-010 / 5519-010
 ---
 
@@ -12,19 +14,13 @@ laura.devendorf@colorado.edu
 Responsible for grading, participation and course administration.  
 Office Hours: [Sign Up at this Link](https://calendar.google.com/calendar/selfsched?sstoken=UUlSdzlqbmRSY0dPfGRlZmF1bHR8MTZhYjY5YzBiODhlNWZkY2Q4ZDBmZjM3ZjQ0ZWJmYTQ)
 
-**Sasha De Koninck**  
-PhD student, Intermedia Art, Writing, and Performance  
-Sasha.DeKoninck@colorado.edu  
-Responsible for in class critiques, instruction, grading input, feedback. 
-
 ## Location and Timing 
 
-In person location: ATLAS 113  
-Zoom location: see Canvas
+In person: ATLAS 113  
 
 ## Hybrid Instruction Details
 
-Students will have the option to attend some in person sessions or take the course entirely online. In person sessions will be held particularly for class presentations and/or material demonstrations and will be limited in the amount of students depending on room size. The class has been designed to facilitate making and documenting in an entirely remote fashion. Please view the [Lesson Plan](lesson-plan.md) for details on which lectures will be held online and which in person. 
+Students will have the option to attend some in person sessions or take the course entirely online. In person sessions will be held particularly for class presentations and/or material demonstrations and will be limited in the amount of students depending on room size. The class has been designed to facilitate making and documenting in an entirely remote fashion. Please view the [Lesson Plan](../infr-plan.md) for details on which lectures will be held online and which in person. 
 
 ### Online Instruction Values and Commitments  as described by the class on the first day\*
 
