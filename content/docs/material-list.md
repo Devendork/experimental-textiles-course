@@ -8,11 +8,8 @@ description:
 
 # Material List
 
-We have assembled kits for each student to give them most necessary supplies for the first half of the class. We are asking students to purchase a few materials on their own, as they are ones we expect some might already own. After the first class, each student will refine their direction and may need access to more specific equipment and supplies. In that case, we have created a "library" for you to check out or take materials as they are required. 
+While most equipment required for the class will be provided, we are asking students to purchase a few materials on their own, as they are ones we expect some might already own. After the first half of the class, each student will refine their direction and may need access to more specific equipment and supplies. In that case, we have created a "library" for you to check out or take materials as they are required. 
 
-### How to Pick up Your Kit
-
-Our hope is to have your kits available beginning of **August 25**. The kits will have your name written on them and will be accessible by **a shelf in room 208 on the 2nd floor of ATLAS**. Room 208 is the room directly across from the main 2nd floor staircase. 
 
 ### How to Check Out from the Class Library
 
@@ -27,25 +24,21 @@ We have provided links to places where you can order other essential or helpful 
 
 ## Essentials 
 
-Essential materials are those **required to complete the course assignments**. We will either expect you to obtain these in the first week of class or will provide them to you in the form of a lab kit. Items with a \* will need to be returned prior to Thanksgiving break \(unless they are essential to your final project, then you can return in Spring\). Items with an X in the "You" Column are those we expect you to provide. Those in the "Kit" column will be provided to you through the distribution of the kit.  
+Essential materials are those **required to complete the course assignments**. We will either expect you to obtain these in the first week of class or will provide them to you during class. Items with an X in the "You" Column are those we expect you to provide. Those in the "Course" column will be provided to you through the distribution of the kit.  
 
-| Item | You | Kit | Link to Product For Reference |
+| Item | You | Course | Link to Product For Reference |
 | :--- | :--- | :--- | :--- |
 | Multimeter | X |  | [Amazon - 12.99](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=sr_1_1_sspa?dchild=1&keywords=Multimeter&qid=1597350720&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0Ukc3MkxFQjlHMDYmZW5jcnlwdGVkSWQ9QTAyNTIyMjgyOTNPQVZRUlFRMDEwJmVuY3J5cHRlZEFkSWQ9QTAwMzc3OTEzTTFNOU9XV0VYVjBEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) |
 | Sewing Needles | X |  | [Amazon - 3.99](https://www.amazon.com/30-Count-Assorted-Threaders-Meiho-Lives/dp/B07D8LKP1P/ref=sr_1_1_sspa?dchild=1&keywords=Sewing+Needles&qid=1597350770&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMklUV01VR0paQzBaJmVuY3J5cHRlZElkPUEwNTg5NzkzMUdYSklFTjY5VkU2TiZlbmNyeXB0ZWRBZElkPUEwODg1MTI2MkY4NjhMV0dQREQ5NSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=),  Local |
 | Fabric Scissors | X |  | [Amazon - 14.18](https://www.amazon.com/Fiskars-01-005437-Heritage-Seamstress-Scissors/dp/B003YKZ59Y/ref=sr_1_17?dchild=1&qid=1597351894&refinements=p_n_feature_keywords_browse-bin%3A3375237011&s=arts-crafts&sr=1-17),  Local |
-| 3 yards Conductive Copper |  | X | [Karl Grimm Copper ](https://lbruning.com/etextilelounge/review-karl-grim-solderable-thread/) |
-| 3 yards Conductive Silver |  | X | [Karl Grimm Silver](https://lbruning.com/etextilelounge/review-karl-grim-solderable-thread/) |
-| 3 yards Resistive Thread |  | X | [V Technical Textiles](http://www.shopvtechtextiles.com/23534-dtex-2-ply-High-Conductive-Twisted-Yarn-B_p_139.html) |
-| &lt; 1oz Stainless Steel Roving |  | X |  |
-| 1 Skein All Purpose Wool Yarn |  | X |  |
-| few yards conductive yarn |  | X | [Silver Spun Yarn](https://www.jimmybeanswool.com/knitting/yarn/FeelGoodYarn/SilverSpunreg.asp?showLarge=true&specPCVID=89997) |
-| 12 yards 10/2 Cotton  yarn |  | X |  |
-| 1 Drop Spindle\* |  | X |  |
-| 1 Cardboard loom \* |  | X |  |
-| 1 roll grab bag party yarn |  | X |  |
-| 1 tapestry needle\* |  | X |  |
-| 3 Needle Felting Needles\* |  | X |  |
+| Conductive Copper Thread |  | X | [Karl Grimm Copper ](https://lbruning.com/etextilelounge/review-karl-grim-solderable-thread/) |
+| Conductive Silver Thread|  | X | [Karl Grimm Silver](https://lbruning.com/etextilelounge/review-karl-grim-solderable-thread/) |
+| Silver Plated Nylon Resistive Thread |  | X | [V Technical Textiles](http://www.shopvtechtextiles.com/23534-dtex-2-ply-High-Conductive-Twisted-Yarn-B_p_139.html) |
+| Wool Yarn |  | X |  |
+| Conductive Yarn |  | X | [Silver Spun Yarn](https://www.jimmybeanswool.com/knitting/yarn/FeelGoodYarn/SilverSpunreg.asp?showLarge=true&specPCVID=89997) |
+| 10/2 Cotton  yarn |  | X |  |
+| Drop Spindle |  | X |  |
+| 10 inch Cricket Loom  |  | X | *note, you will share this with a partner |
 
 ## Other Useful Materials 
 
@@ -66,7 +59,20 @@ You may find it useful to have other materials accessible but there are ways you
 | Sewing Machine + Supplies |  | No |
 |  |  |  |
 
-## Library
+## Equipment
+As a member of this class you will have acces to different forms of textile production equipment. To use this equipment, you must schedule a time with your instructor. 
+
+| Item | Qty | Location |
+| :--- | :--- | :--- | 
+| 15" 4 Shaft Table Loom | 1 | TBD
+| 15" 8 Shaft Table Loom | 2 | TBD
+| 28" 8 Shaft Floor Loom | 2 | TBD
+| 43" TC2 Digital Jaquard Loom | 1 | Unstable Design Lab
+| Sewing Machine | 1 | Unstable Design Lab
+| Studio HILO Digital Spinning Machine | 1 | Unstable Design Lab
+
+
+## Materials and Equipment Available for Check Out
 
 you may find it useful to have other materials accessible. These are products you may wish to purchase yourself or will be accessible \(on a first come first served bases\) through the course materials library. If you would like to get a better sense of the material and quantity, you can see all of the materials [in this shared photo library](https://photos.app.goo.gl/vKVDvacFFzdoT92RA). Amounts are difficult to specify exactly: 
 
@@ -76,13 +82,15 @@ you may find it useful to have other materials accessible. These are products yo
 
 | Item | Amount? | Location | Loaned To |
 | :--- | :--- | :--- | :--- |
+| Assorted Non-Conductive Yarns |  Plenty | Cabinet |
+| Tapestry needles | Limited | Cabinet |  |
+| Needle Felting Needles | Limited | Cabinet |  |
 | Shoddy | Enough | Cabinet |  |
 | Alpaca Silk Roving \(shades of brown\) | Enough | Cabinet |  |
 | Rayon Roving \(forest green\) | Enough | Cabinet |  |
 | Churro Wool Roving \(bleached white\) | Enough | Cabinet |  |
 | Flax/Linen Roving \(natural\) | Enough | Cabinet |  |
 | Estonian Wool Roving \(shades of green\) | Enough | Cabinet |  |
-| Tussah Silk Roving \(cream\) | Limited | Check Out |  |
 | Stainless Steel Roving | Limited | Check Out |  |
 | Merinox \(Merino/Silver\) Roving | Limited | Check Out |  |
 | Metal Eye Hooks | Limited | Cabinet |  |
@@ -139,4 +147,5 @@ you may find it useful to have other materials accessible. These are products yo
 | Helping Hands | 1 | Check Out |  |
 | Fume Extractor | 1 | Check Out |  |
 | Multimeter \(for emergencies\) | 2 | Check Out |  |
+| E-Spinner Nano | 4 | Check Out |  |
 

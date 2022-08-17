@@ -1,16 +1,19 @@
 ---
 title: Final - What If?
-description: 'Continue from Midterm, discover application for your swatches.'
-draft: false
+weight: 2
 ---
 
 # Final Project: What If
--	Reinvent component
--	Code contribution
--	Deep dive
+Your final project will be a self-directed project, alone or in a pair, where you go deeper into one of the concepts or ideas learned earlier in the class. This might include: 
+-	Developing a new form of woven sensor or actor
+-   A deep dive into the possibility space of a given structure
+-	A contribution to the AdaCAD Code Base
+-	A reworking of a historic technique with new materials
+
+Your final project will be due and presented in the scheduled final time for this class
 
 
-
+<!-- 
 Taking what you have learned from your midterm and the weeklies to adapt your midterm swatch into a finished prototype. What separates this from the swatch your presented in the midterm is that it should be integrated into a form \(with all necessary components\) and exist as part of an interactive narrative. The objects do not need to be user interfaces, but they should somehow respond to the body and/or environment. 
 
 Requirements: 
@@ -136,4 +139,4 @@ To quote their about page, this resource "provides guidelines and best practices
 
 A collection of new fabrication techniques and outcomes for woven and knitted textiles.  
 [https://samplestudio.textiellab.nl/](https://samplestudio.textiellab.nl/)
-
+ -->

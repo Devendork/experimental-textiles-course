@@ -44,33 +44,33 @@ Sample Weekly
 
 **Process Note 1:** The paper seems to pack and expand to whatever space its given. Specifically, in a tight weave it packs down. I chose to weave it with a basket weave structure just to give it a little more room. I then expanded out to larger basket weaves to see how it might "bloom" and then also doubled up the passes to make the rows a bit thicker. Between each row I threw thin tensel to keep the overall structure in tact. I began to enjoy the feel of the tests as a kind of tapestry, and decided that I should not just sample, but try to make something with an interesting aesthetic. 
 
-![paper. yarn integrated into tencel warp. ](../.gitbook/assets/img_8819.jpg)
+![paper. yarn integrated into tencel warp. ](../../../resources/_gen/images/img_8819.jpg)
 
-![ends of the paper yarn which has only been integrated center of the piece. ](../.gitbook/assets/img_8821.jpg)
+![ends of the paper yarn which has only been integrated center of the piece. ](../../../resources/_gen/images/img_8821.jpg)
 
-![The textures reminded me of a pattern I had seen from ace &amp; jig. ](../.gitbook/assets/screen-shot-2020-07-23-at-7.44.05-pm.png)
+![The textures reminded me of a pattern I had seen from ace &amp; jig. ](../../../resources/_gen/images/screen-shot-2020-07-23-at-7.44.05-pm.png)
 
 **Process Note 2:** With the idea that I should make it a more official piece, I decided to bind the bottom edge of the textile while its on the loom. I have applied a similar technique after weaving, but during weaving seemed to be a bit easier and I wanted to see how it might work. It took me a while to figure out the process, but then I found a technique that worked: see below:  
 
-![insert tapestry needle under first weft row and 4 warps. ](../.gitbook/assets/img_8811.jpg)
+![insert tapestry needle under first weft row and 4 warps. ](../../../resources/_gen/images/img_8811.jpg)
 
-![pull that yarn through](../.gitbook/assets/img_8812.jpg)
+![pull that yarn through](../../../resources/_gen/images/img_8812.jpg)
 
-![loop backward \(towards perviously bound yarns\), and then come UNDER the four yarns below the first weft row, and OVER the back of the binding yarn](../.gitbook/assets/img_8813.jpg)
+![loop backward \(towards perviously bound yarns\), and then come UNDER the four yarns below the first weft row, and OVER the back of the binding yarn](../../../resources/_gen/images/img_8813.jpg)
 
-![Then, repeat, by selecting the next four warps above the first weft row. ](../.gitbook/assets/img_8814.jpg)
+![Then, repeat, by selecting the next four warps above the first weft row. ](../../../resources/_gen/images/img_8814.jpg)
 
-![and tighten the loop down. ](../.gitbook/assets/img_8817.jpg)
+![and tighten the loop down. ](../../../resources/_gen/images/img_8817.jpg)
 
-![view of finished binding row, looks a bit separated by first warp row, might be fixed by selecting yarns about 3-4 rows up in stead of one. ](../.gitbook/assets/img_8829.jpg)
+![view of finished binding row, looks a bit separated by first warp row, might be fixed by selecting yarns about 3-4 rows up in stead of one. ](../../../resources/_gen/images/img_8829.jpg)
 
 **Process Note 3:** Taking a step back and reflecting, I began to see the loopy ends of the paper being the most interesting. In the next steps, I played with this more:
 
-![](../.gitbook/assets/img_8849.jpg)
+![](../../../resources/_gen/images/img_8849.jpg)
 
 At first, I though I would create patterns by interlacing the loops and allowing them to travel in different directions. 
 
-![](../.gitbook/assets/img_8855.jpg)
+![](../../../resources/_gen/images/img_8855.jpg)
 
 I then realized that the contrast between the looping paper and the brown warps created the most visual interest and I wanted to emphasize that by having more open regions of the brown. 
 

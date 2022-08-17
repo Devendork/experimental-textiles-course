@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://unstable.design/courses/experimental-textiles/'
 languageCode = 'en-us'
 title = 'Experimental Textiles'
 theme = "hugo-book"

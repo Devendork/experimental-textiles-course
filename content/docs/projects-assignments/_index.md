@@ -1,4 +1,4 @@
 ---
-title: Projects & Assignments
+title: Projects
 weight: 4
 ---
