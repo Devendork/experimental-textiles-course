@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://unstable.design/courses/experimental-textiles/docs/projects-assignments/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Midterm Project</title>
+      <link>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/midterm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/midterm/</guid>
+      <description>Midterm Project: Follow the Materials # Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the e-textiles swatch exchange, where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners.</description>
+    </item>
+    
+    <item>
       <title>Final - What If?</title>
       <link>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final-project-adapt-to-application/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14,15 +23,6 @@
       <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final-project-adapt-to-application/</guid>
       <description>Final Project: What If # Your final project will be a self-directed project, alone or in a pair, where you go deeper into one of the concepts or ideas learned earlier in the class. This might include:
 Developing a new form of woven sensor or actor A deep dive into the possibility space of a given structure A contribution to the AdaCAD Code Base A reworking of a historic technique with new materials Your final project will be due and presented in the scheduled final time for this class</description>
-    </item>
-    
-    <item>
-      <title>Midterm Project</title>
-      <link>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/midterm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/midterm/</guid>
-      <description>Midterm Project: Follow the Materials # Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the e-textiles swatch exchange, where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners.</description>
     </item>
     
   </channel>

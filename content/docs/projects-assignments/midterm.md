@@ -1,5 +1,6 @@
 ---
 title: Midterm Project
+weight: 1
 description: Develop a textile swatch focusing on texture and behavior.
 ---
 

@@ -4,9 +4,9 @@ weight: 1
 description: ATLAS 4519-010 / 5519-010
 ---
 
-# Syllabus: Experimental Textiles
+# Syllabus
 
-## Instructors
+## Instructor
 
 **Laura Devendorf**  
 Assistant Professor, ATLAS Institute & Dept. of Information Science  
@@ -16,9 +16,10 @@ Office Hours: [Sign Up at this Link](https://calendar.google.com/calendar/selfsc
 
 ## Location and Timing 
 
-In person: 
-Monday, Wednesday: 9:00 - 10:50
+In person <br>
+Monday, Wednesday: 9:00am - 10:50am<br>
 ENVD 234
+
 <!-- 
 ### Online Instruction Values and Commitments  as described by the class on the first day\*
 
@@ -54,18 +55,19 @@ You may view a detailed course schedule [on the Lesson Plan link](../lesson-plan
 
 
 ## Course Materials 
+You may view a detailed list of the materials that will be required for you to purchase or available for you to check out on the [Materials List](../material-list)
+
 
 ### Prototyping Materials
-
 All students will be given access to a materials kit that they can use for their projects this semester. Depending on where each interest and process progresses, the Instructors may be able to lend you additional equipment and resources. 
 
 Documentation will be a critical part of the class, so you may want to invest in a tri-pod or stationary mount for your smart phone or other camera, a macro lens \(for your phone or other camera\), and a quality set of lighting for photography. If you are having trouble obtaining these items, let the instructors know and we can help you.    
 
 ### Reading Materials
-
 All reading materials for the course will be provided by the instructors. You are invited, but not required, to  view the readings realted to the course on the [front page](../_index).
 
 ## Grading Rubric ##
+All assignments will be turned in and graded in Canvas.
 
 | Assignment Type | Percentage of Grade |
 | :--- | :--- |

@@ -30,6 +30,8 @@ The following resources and references can be helpful for motivating the course 
 
 - Jefferies, Janis. "Pattern, patterning." Inventive Methods. Routledge, 2012. 125-135.
 
+- Mclean, Alex & Fanfani, Giovanni & Harlizius-Klück, Ellen. (2018). Cyclic Patterns of Movement Across Weaving, Epiplokē and Live Coding. Dancecult. 10. 5-30. 10.12801/1947-5403.2018.10.01.01. 
+
 - Nakamura, Lisa. "Indigenous circuits: Navajo women and the racialization of early electronic manufacture." American Quarterly 66.4 (2014): 919-941.
 
 - Rosner, Daniela K., et al. "Making core memory: Design inquiry into gendered legacies of engineering and craftwork." Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. 2018.

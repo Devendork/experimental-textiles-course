@@ -4,16 +4,16 @@ Each week, we will critique each other's weeklies in a method that resembles Liz
 
 First, we will quickly share our projects to the whole class, next, we will break into breakout groups of roughly 4 students each.Each week one student from each group will be assigned as the "facilitator" and will be responsible for keeping time, guiding everyone through the critique process, and making sure the critique stays on task. This student will also take notes on ideas/themes that emerged from their critiques to share back to the whole class when we regroup. Instructors will travel between groups. 
 
- Within the breakout groups, students will each take a turn being the presenter.
+ Within the small groups, students will each take a turn being the presenter.
 
 The group will have 10 minutes to complete the following for each presenter: 
 
 1. **Presenter** gives **1-2 minute description** of what they did and came up with \(share screens, show pictures!\)
-2. All **responders write what was meaningful**, **evocative or inspirational** in what was shown in chat. Presenter ****is allowed to ask for clarification of any of the mentions in the chat. 
+2. All **responders share what was meaningful**, **evocative or inspirational** Presenter is allowed to ask for clarification. 
 3. **Presenter asks questions to the group**
-   * responders respond to question in chat
+   * responders respond 
    * presenter can ask for responders to elaborate as desired.
-4. **Responders ask at least one “neutral question” in the chat** 
+4. **Responders ask at least one “neutral question”** 
    * presenter chooses 0-2 neutral questions to respond to.
 5. Any extra time for suggestions and opinions. 
 
