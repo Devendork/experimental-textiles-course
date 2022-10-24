@@ -31,7 +31,9 @@ Your goal is to find the setup that offers you the most quality for least effort
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/midterm/</guid>
-      <description>Midterm Project: Follow the Materials # Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the e-textiles swatch exchange, where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners.</description>
+      <description>Midterm Project: Follow the Materials # Your midterm project is to produce a series of swatches that explore a particular goal according to heuristics you define. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
+The Assignment Description:
+Your swatch should emerge from a challenge that you define. Perhaps that challenge is figuring out how to best integrate a given material, a new approach to drafting, or the desire to achieve a specific function.</description>
     </item>
     
     <item>
@@ -60,13 +62,12 @@ Course Materials # You may view a detailed list of the materials that will be re
     </item>
     
     <item>
-      <title>Final - What If?</title>
-      <link>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final-project-adapt-to-application/</link>
+      <title>Final Project</title>
+      <link>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final-project-adapt-to-application/</guid>
-      <description>Final Project: What If # Your final project will be a self-directed project, alone or in a pair, where you go deeper into one of the concepts or ideas learned earlier in the class. This might include:
-Developing a new form of woven sensor or actor A deep dive into the possibility space of a given structure A contribution to the AdaCAD Code Base A reworking of a historic technique with new materials Your final project will be due and presented in the scheduled final time for this class</description>
+      <guid>http://unstable.design/courses/experimental-textiles/docs/projects-assignments/final/</guid>
+      <description>Final Project: Keep Following the Materials # Your final project is to extend what you learned in your midterm by making a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered. We take inspiration in this assignment from the e-textiles swatch exchange, where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners.</description>
     </item>
     
     <item>

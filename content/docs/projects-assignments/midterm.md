@@ -6,23 +6,13 @@ description: Develop a textile swatch focusing on texture and behavior.
 
 # Midterm Project: Follow the Materials
 
-Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
+Your midterm project is to produce a series of swatches that explore a particular goal according to heuristics you define. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
 
 **The Assignment Description:**   
-Taking into consideration all of the ways you have learned to create a textile/substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). Each student **should make 3 copies of the same swatch.** 
-
-Your swatch should emerge from a challenge that you define. Perhaps that challenge is figuring out how to best integrate a given material, a new approach to drafting, or the desire to achieve a specific function. Maybe it will function as some kind of sensor \(stretch, bend, force, etc\), have the ability to actuate \(change shape, color, stiffness in response to a stimulus\) or have a unique and intentional property \(biodegradable, super softness, texture change on interaction, etc\). For your swatch book page, you must title your swatch and write a description of its behavior. You must include a list of the materials and tools used to create it as well as the draft / AdaCAD file used to create it. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. The draft should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references.** 
-
-For your swatch book page, you must use the template provided in canvas  \(in addition to any of your own documentation you might like to keep\) title your swatch and write a description of its function. You must include a list of the materials and tools used to create your swatch. Depending on the function of your swatch, you can either include a technical circuit diagram or instructions for replicating your swatch. You must also include an illustrated diagram. The illustrated diagram should label all the parts of the swatch, how they function, and how it can be connected to. You must also cite at minimum two sources/references. 
-
-Maximum swatch dimensions: 5.5" x 7.75" x 0.25"  
-Quantity: 3 copies of the same swatch  
-  
-**You will keep one copy and send the other two to the instructors for grading \(**[**details below**](midterm.md#deliverable-2-swatch-and-documentation-due-10-26)**\)**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
+Your swatch should emerge from a challenge that you define. Perhaps that challenge is figuring out how to best integrate a given material, a new approach to drafting, or the desire to achieve a specific function. Maybe it will function as some kind of sensor \(stretch, bend, force, etc\), have the ability to actuate \(change shape, color, stiffness in response to a stimulus\) or have a unique and intentional property \(biodegradable, super softness, texture change on interaction, etc\). For your swatch book page, you must title your swatch and write a description of its behavior.
 
 Please review the deadlines and phases of the project in the table below for details on each phase: 
 
-Below, you will 
 
 | **Item** | Percent of Midterm Grade | Date Due |
 | :--- | :--- | :--- |
