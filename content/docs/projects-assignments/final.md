@@ -1,12 +1,12 @@
 ---
-title: Midterm Project
-weight: 1
+title: Final Project
+weight: 2
 description: Develop a textile swatch focusing on texture and behavior.
 ---
 
-# Midterm Project: Follow the Materials
+# Final Project: Keep Following the Materials
 
-Your midterm project is to produce a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered in our earlier weeklies. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
+Your final project is to extend what you learned in your midterm by making a swatch for a class swatch book that demonstrates some functionality, possibly something that you discovered. We take inspiration in this assignment from the [e-textiles swatch exchange](http://etextile-summercamp.org/2013/?cat=12), where practitioners develop small samples of a material outcome of a technique they developed and instructions for replication that are shared into a physical book with other practitioners. This is a chance for you to explore one technique or material more deeply, and to present it to the class.
 
 **The Assignment Description:**   
 Taking into consideration all of the ways you have learned to create a textile/substrate, create a swatch for the course swatch book \(yes! we will be making physical books\). Each student **should make 3 copies of the same swatch.** 
@@ -18,15 +18,15 @@ For your swatch book page, you must use the template provided in canvas  \(in ad
 Maximum swatch dimensions: 5.5" x 7.75" x 0.25"  
 Quantity: 3 copies of the same swatch  
   
-**You will keep one copy and send the other two to the instructors for grading \(**[**details below**](midterm.md#deliverable-2-swatch-and-documentation-due-10-26)**\)**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
-
+**You will keep one copy and give the other two to the instructor for grading**. We will also compile them into course books that will live on in our institutional library \(and possibility digital archives\).  
+<!-- 
 Please review the deadlines and phases of the project in the table below for details on each phase: 
 
 Below, you will 
 
-| **Item** | Percent of Midterm Grade | Date Due |
+| **Item** | Percent of Final Grade | Date Due |
 | :--- | :--- | :--- |
-| Deliverable 1: [Concept](midterm.md#deliverable-1-concept---due-wednesday-1012) | 10% | 10/12 |
+| Deliverable 1: [Concept](midterm.md#deliverable-1-concept---due-wednesday-1012) | 10% | ?? |
 | Deliverable 2: [Physical Swatches](midterm.md#d2) | 40% | 10/31 |
 | Deliverable 3: [Documentation](midterm.md#d3) | 40% | 10/31 |
 | Deliverable 4: [Presentation](midterm.md#deliverable-2-swatch-and-documentation-due-10-31) | 10% | 10/31 |
@@ -40,15 +40,11 @@ Bring a concept that you'd like to explore, some materials you might need to ach
 
 ### Deliverable 2: Physical Swatches - Due 10/31 
 
-Bring all the swatches you have produced as part of your midterm to class in a plastic (preferably zip lock) bag with your name on it. 
+Make 3 physical copies of your swatch and bring them to class on 10/31.
 
 ### Deliverable 3: Documentation - Due 10/31 
 
-Use the weekly template to describe the process of your midterm. Your documentation should include photos of at least three swatches that you created as you worked on the midterm as well as the drafts for those swatches. 
-
-Identify at least three key decision points in your process where you changed plans, tried something new, or developed a new approach to optimize your swatch towards your hueristic. Describe these in writing. This is the primary place in the assignment where I will grade you on your decisions so provide strong reasoning for why you tried different techniques at different times. 
-
-Include a reflection at the end of the documentation about what you would still like to try or what you think you should have done differently. 
+Turn in your documentation page as a PDF via Canvas \(the instructors will print it and attach your swatch to it. You must use the template provided on Canvas, but are also welcome to submit any additional materials you added to a personal blog or project page. 
 
 ### Deliverable 4: Presentation - Due 10/31 
 
@@ -65,20 +61,18 @@ We will grade according to the following template
 | **Item** | Max Point Value |
 | :--- | :--- |
 | **Concept \(Deliverable 1\)** | **+10** |
-| **Physical Swatches \(Deliverable 2\)** | **+40** |
-| -- Effort  | +20
-| -- On Task | +10 
-| -- Quality | +10
-| **Documentation \(Deliverable 3\)** | **+40** |
-| -- Clearly defined Goal and Heuristic | _+3_ |
-| -- Quality of Imagery Describing the Process | _+10_ |
-| -- Quality of Written Descriptions of the Process | _+10_ |
-| -- Quality of Drafts for Included Swatches | _+5_ |
-| -- Quality of the Reflection | _+5_ |
-| -- Difficulty and Creativity | _+7_ 
- **Presentation \(Deliverable 4\)** | **+10** |
+| **Working Physical Swatches \(Deliverable 2\)** | **+40** |
+| **Documentation Sheet \(Deliverable 3\)** | **+40** |
+| -- _Description_ | _+10_ |
+| _-- Title_ | _+2_ |
+| _-- References_ | _+3_ |
+| _-- Illustration_ | _+9_ |
+| _--Materials_ | _+3_ |
+| _--Tools_ | _+3_ |
+| _--Diagram OR Instructions_ | _+10_ |
+| **Presentation \(Deliverable 4\)** | **+10** |
 
-### 
+###  -->
 
 
 
