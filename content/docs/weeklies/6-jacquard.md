@@ -16,6 +16,12 @@ We'll review the "final" files on Wednesday in class to make sure they can be wo
 ## Step 2: Designing for Jacquard, Due Wednesday 15th
 Based on your result, you will update your file, again, and submit it before class on Wednesday the 15th. Each student will then have a chance to weave their (or someone elses') file on the loom itself during class on Wednesday. 
 
+To ensure that we can produce all swatches in 2 hours time, you will be arranging swatches side to side. We'll work together in class to determine the materials that will be used in the weft so you can tile your design next to the others. 
+
+The final swatches should be 180 ends x 90 ends.
+
+**note: given the time and resources required for jacquard weaving, if you plan to continue for this phase, please ensure that your swatch, in some way, ties into your final sampling**
+
 
 
 
