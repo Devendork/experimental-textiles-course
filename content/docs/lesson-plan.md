@@ -19,12 +19,10 @@ weight: 1
 | 10/17 | Thinking through Soft-Hard Connections   | 10/19 | **Guest Lecture By Jessy Lu**. <br>Exploring Connections Between Weaving and Origami, Midterm Checkin</p> 
 | 10/24 | Midterm Checkin  | 10/26 | **Guest Lecture By Alyson Ainsworth**<br>Introduction to Industrial Weaving and Jacquard</p> 
 | 10/31 | [Midterm Documentation, Swatch and Presentation Due](../projects-assignments/midterm) | 11/2 | **Introduction to Jacquard Weaving** and the TC2 Loom. <br>[Begin Weekly 6](../weeklies/6-jacquard) 
-| 11/7 | Jacquard Weaving and Final Concept| 11/9 | **Guest Lecture By Victoria Mangianello** <br>Introduction to Surface Processes (Dying, Resist, Plating) 
-| 11/14 | **Share/Critique** [Weekly 6](../weeklies/6-jacquard) Final Concept Presentation Prep | 11/16 |**Final Concept Presentations** 
+| 11/7 | Jacquard Weaving and Final Concept| 11/9 | **Guest Lecture By Victoria Mangianello** Finalizing Jacquard Tests
+| 11/14 | Share out of Jacquard and Concept Review | 11/16 | In Class Workshop
 | 11/28 | class choice | 11/30 | **Guest Lecture By Etta Sandry**.
-| -- | -- | -- | --
-| 12/5 | **Class Choice** | 12/7 | **Class Choice**
-| 12/11 1:30 - 4:00 | Final Presentations
+| 12/5 | **FinalPresentations** | 12/7 | **Final Presentations**
 
 
 # Guest Lecture Bios and Information
